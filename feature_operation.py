@@ -1,7 +1,7 @@
 
 import os
 from torch.autograd import Variable as V
-from scipy.misc import imresize
+# from scipy.misc import imresize
 import numpy as np
 import torch
 import settings
